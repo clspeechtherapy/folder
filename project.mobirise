@@ -1,0 +1,1221 @@
+{
+  "settings": {
+    "currentPage": "Home.html",
+    "name": "CaseyLawrence Speech Therapy",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#00a885",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#3d8eb9",
+        "infoColor": "#00a885",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 39,
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "Contact us.html": {
+      "settings": {
+        "title": "Contact ",
+        "meta_descr": "Web Site Maker Description",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "22px"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "1.15rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.245rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00a885!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-7",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "1.15",
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/speech-logo-127x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><em>Casey Lawrence Speech Therapy</em></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\"><em>HOME</em></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\" target=\"_blank\"><em>SERVICES</em></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQs.html\" aria-expanded=\"false\"><em>FAQs</em></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contact us.html\">CONTACT US</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-8",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title I": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "SMALL": {
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "form1-9",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#91cbea",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "<i>CONTACT US!</i>",
+          "subtitle": "Fill in the form below to enquire about our services<br>OR<br>E-mail: casey@clspeechtherapy.com<br>Whatsapp ONLY: 062 093 6875",
+          "form": {
+            "action": "casey@clspeechtherapy.com",
+            "alerts": {
+              "success": "Thank you for contacting us! Expect a reply soon!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><strong>SUBMIT</strong></a>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-r",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/speech-logo-2000x2001.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "<i>FOLLOW US</i>",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/caseylawrencespeechtherapy/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        }
+      ]
+    },
+    "FAQs.html": {
+      "settings": {
+        "title": "FAQs",
+        "meta_descr": "Site Maker Description",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "22px"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "1.15rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.245rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00a885!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-3",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "1.15",
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/speech-logo-127x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><em>Casey Lawrence Speech Therapy</em></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\"><em>HOME</em></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\" target=\"_blank\"><em>SERVICES</em></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQs.html\" aria-expanded=\"false\"><em>FAQs</em></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contact us.html\">CONTACT US</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-4",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_inherit": "testimonials2",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials4",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".card-block P": {
+              "color": "#232323"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p><b>WHEN SHOULD I CONTACT A SPEECH THERAPIST?</b></p><p>Does your child have a speech and/or a language delay?&nbsp;<span style=\"font-size: 1.125rem; line-height: 2;\">Is your child frustrated?&nbsp;</span><span style=\"font-size: 1.125rem; line-height: 2;\">Do you or others have difficulty understanding your child?&nbsp;</span><span style=\"font-size: 1.125rem; line-height: 2;\">Does your child make minimal or no communication with you and those around him/her?&nbsp;</span><span style=\"font-size: 1.125rem; line-height: 2;\">Is your child's play and/or interactions with others inappropriate?&nbsp;</span><span style=\"font-size: 1.125rem; line-height: 2;\">Does your child struggle with reading and/or writing?</span></p><p><b><span style=\"font-size: 1.125rem; line-height: 2;\">As a parent it is important to determine your child's needs&nbsp;</span><span style=\"font-size: 1.125rem; line-height: 2;\">Parents should seek help from a speech therapist the moment they are concerned about the child's speech, language and/or feeding development.</span></b></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p><b>WHAT IS EARLY INTRVENTION?</b></p><p>Early intervention is a term used when a variety of specialists work together with the family to provide support and promote typical development during the early years/ critical period.</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Suffian A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p><b>HOW CAN I ASSIST MY CHILD'S SPEECH AND/OR LANGUAGE DEVELOPMENT?</b></p><p>During the early years it is important that parents make regular eye contact with their child, speak face to face, a child learns through play, communication is made during a variety of activities (bath time, feeding time, play time, cleaning time, etc.).</p><p>It is also important that a child is read to to promote language development. It is important to note that children only learn to enjoy things that they are exposed to.</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Jhollman C.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p><b>WHAT SHOULD I DO IF MY CHILD HAS CHRONIC EAR INFECTIONS?</b></p><p>It is important that your child has his/her hearing assessed at birth and again during the early years (between 1 years and 3 years). It is also important to assess hearing the moment the parents are cocnerned about their child's hearing.</p><p>If your child has chronic middle ear infections it is important that you seek medical assistance to discuss medicine and/or surgical options (i.e grommets). Delayed medical attention could cause a hearing loss which affects speech and language development especially in the early years.</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p><b>WHAT SHOULD I DO IF ISSUES ARISE WHEN I FEED MY CHILD?</b></p><p>Premature babies often have feeding difficulties as they struggle to latch on the breast/bottle, struggle to suck from the breat/bottle or struggle to swallow (coughing when swallowing, milk coming out the mouth, very slow or no weight gain).</p><p>Children with sensory issues (such as children on the Autism spectrum) have difficulties eating a variety of foods due to issues with texture, colour, food group and/or presentation of foods. These should also be addressed.</p><p>If your child is coughing regularly when eating, has food spilling out of his mouth when eating, struggles to clear the food from his mouth when swallowing and/or slow to no weight gain, then your child has feeding/swallowing difficulties and needs a speech therapist.</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p><b>WHAT SHOULD I DO IF MY CHILD STUTTERS?</b></p><p>If your child is under 5 years old assess the possible reasons for the stutter (is there someone who is around my child regularly who stutters? has my child experienced any trauma lately?- moving, divorce, etc.). If your child is under 5 years old then it is best for parents and communication partners to not focus on the child's stutter and for the child to also not be aware.</p><p>If your child is older than 5 and is still stuttering or begins to stutter, contact a speech therapist for an evaluation and therapy/management.</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p>WHAT SHOULD I DO IF I THINK MY CHILD HAS AUTISM?</p><p>The first step would be to get your child evaluated by a paeditrician or your family doctor when your child is three years old.</p><p>The next step would be to get a second opinion from a neuropsyschologist.</p><p>Once you have a diagnosis, it is important you have your child evaluated by a speech therapist and an occupational therapist to assist with further childhood development.</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p><b>HOW OFTEN SHOULD MY CHILD ATTEND SPEECH THERAPY?</b></p><p>Therapy depends on a variety of factors:</p><p>1. The age of your child</p><p>2. The severity of your child's delay/ disorder</p><p>3. The type of delay/disorder</p><p>Generally therapy occurs at least once a week.</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p><b>WHERE WILL THERAPY TAKE PLACE?</b></p><p>Therapy will take place at your child's school/ daycare/creché or your home.</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            }
+          ],
+          "_anchor": "testimonials4-s",
+          "_params": {
+            "count": "9",
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/faq-2000x1600.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false
+          },
+          "title": "<i>Questions and Answers for Parents</i>",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            },
+            "STRONG": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts1-t",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/faq-2000x1600.jpg",
+            "bgColor": "#99403b",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/speech-logo-128x128.jpg",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong><br></strong><strong>Address</strong><br>Northern Suburbs<br>Soujthern Suburbs<br>Cape Town<br>Western Cape<br>South Africa",
+          "text2": "<strong>Contacts</strong><br>\nEmail: casey@clspeechtherapy.com<br>\nPhone: 062 093 6875&nbsp;<br><br>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"Home.html\" class=\"text-white\">Home</a><a class=\"text-primary\" href=\"Home.html\"></a><br>\n<a href=\"Services.html\" class=\"text-white\">Services</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"Contact us.html\" class=\"text-white\">Contact Us</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+        }
+      ]
+    },
+    "Home.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "22px"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "1.15rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.245rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00a885!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "1.15",
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/speech-logo-127x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><em>Casey Lawrence Speech Therapy</em></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\"><em>HOME</em></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\" target=\"_blank\"><em>SERVICES</em></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQs.html\" aria-expanded=\"false\"><em>FAQs</em></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contact us.html\">CONTACT US</a></li>"
+        },
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".mbr-section-title I": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#2b0680"
+            },
+            ".mbr-section-title": {
+              "color": "#2969b0"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#6110e4"
+            }
+          },
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/speech-logo-2000x2001.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>Casey Lawrence</i><br><i>Speech Therapy</i></span>",
+          "text": "CL Speech therapy is run and owned by Casey Lawrence- a speech and language pathologist, an experienced tutor, classroom facilitator and Learning Support Educator. I have experience in mainstream, inclusive and special needs education in all of the professions mentioned above.&nbsp;<br>At our speech therapy practice we aim to assist parents in every way possible to provide holistic treatment for their child.&nbsp;<br>Our speech therapists are well experienced and well equipped to provide&nbsp;assessment, management and support for children and their families. We also liaise with everyone involved in your child's live as well as a multidisciplinary team to better your child's speech, language and/or communication development.<br>For a better understanding of the <a href=\"Services.html\"><b>services</b></a> we offer please visit our services tab above.<br>To make an informed decision for speech therapy services, visit our <a href=\"FAQs.html\"><b>FAQs</b></a> page.<br><a href=\"Contact us.html\"><b>Contact us</b></a> as soon as you are ready to begin an unforgettable journey.",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-l",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/speech-logo-2000x2001.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "<i>FOLLOW US</i>",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/caseylawrencespeechtherapy/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        }
+      ]
+    },
+    "Services.html": {
+      "settings": {
+        "title": "Our Services",
+        "meta_descr": "Web Builder Description",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "I": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#d14841"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-10",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<br><br><i>Our Services</i>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "B": {
+              "font-size": "20px",
+              "color": "#000000"
+            },
+            "H4": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "features3-11",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/eci-600x446.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "<i>Early Childhood Intervention</i>",
+          "subtitle1": "",
+          "caption1": "Here the speech therapist promotes speech and language development during the “critical period” of development.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/4526269-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "",
+          "subtitle2": "<b>Articulation disorders</b>",
+          "caption2": "Difficulty pronouncing words correctly which affects listeners’ ability to understand what’s being said.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/lang-disorders-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "<i>Language disorders (receptive and expressive language)-</i>&nbsp;",
+          "subtitle3": "",
+          "caption3": "Difficulty forming words and/or sentences. Development occurs out of sequence- speech and language sounds unusual when talking to others and finds it difficult to understand language when being spoken to.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/lang-delay-600x609.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "<i>Language delays (receptive and expressive language)</i>&nbsp;",
+          "subtitle4": "",
+          "caption4": "Development occurs within sequence but is slower than that of a typically developing child- sounds like a younger child when talking and takes longer to understand language when being spoken to.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "22px"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "1.15rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.245rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00a885!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "1.15",
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/speech-logo-127x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><em>Casey Lawrence Speech Therapy</em></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\"><em>HOME</em></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\" target=\"_blank\"><em>SERVICES</em></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FAQs.html\" aria-expanded=\"false\"><em>FAQs</em></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contact us.html\">CONTACT US</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "features3-12",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cog-comm-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "<i>Cognitive- communication disorders</i>",
+          "subtitle1": "",
+          "caption1": "Difficulties that arise in areas affecting communication skills involving memory, orientation, logic and reasoning, problem solving and perception.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/autism.gif",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "<i>Autism</i>",
+          "subtitle2": "",
+          "caption2": "Delayed and/or disordered speech and language development, poor social skills, and behaviour issues.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/fluency-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "<i>Fluency disorders</i>",
+          "subtitle3": "",
+          "caption3": "Is often referred to as stuttering. Can be seen when a child repeats sounds or syllables when speaking, hesitates when speaking, has blocks and/or extra bodily movements. ",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dysphagia-600x711.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "<i>Dysphagia (feeding and swallowing disorders)</i>",
+          "subtitle4": "",
+          "caption4": "Difficulty experienced when eating/drinking. This includes difficulty with chewing, swallowing, coughing and food refusal.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            },
+            "STRONG": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts1-t",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/faq-2000x1600.jpg",
+            "bgColor": "#99403b",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/speech-logo-128x128.jpg",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong><br></strong><strong>Address</strong><br>Northern Suburbs<br>Soujthern Suburbs<br>Cape Town<br>Western Cape<br>South Africa",
+          "text2": "<strong>Contacts</strong><br>\nEmail: casey@clspeechtherapy.com<br>\nPhone: 062 093 6875&nbsp;<br><br>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"Home.html\" class=\"text-white\">Home</a><a class=\"text-primary\" href=\"Home.html\"></a><br>\n<a href=\"Services.html\" class=\"text-white\">Services</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"Contact us.html\" class=\"text-white\">Contact Us</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+        }
+      ]
+    }
+  }
+}
